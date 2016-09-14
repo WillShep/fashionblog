@@ -1,0 +1,76 @@
+article p:first-of-type:first-letter {
+	float: left;
+	font-size: 6em;
+	line-height: 1;
+}
+
+#span1 {
+	color: red;
+	font-size: 3em;
+	padding: .5em;
+}
+
+#span2 {
+	color: #888;
+	font-size: 1.5em;
+	padding: .5em;
+}
+
+.nav {
+	float: left;
+	width: 16.6%;
+	list-style: none;
+	background-color: black;
+	height: 50px;
+	font-size: 22px;
+	text-align: center;
+	color: white;
+	margin: 0 auto;
+	border: 2px solid #fff;
+	box-sizing: border-box;
+	padding-top: 10px;
+}
+
+.nav a {
+	text-decoration: none;
+	color: #fff;
+}
+
+#main {
+	float: left;
+	width: 65%;
+	margin-left: 20px;
+	color: #888;
+}
+
+aside {
+	float: right;
+	width: 30%;
+	margin-top: 6em;
+	color: #888;
+}
+
+#continue {
+	text-align: right;
+	color: red;
+}
+
+/* .nav2 {
+	color: red;
+} */
+
+img {
+	width: 100%;
+	max-height: 300px;
+}
+
+#date {
+	font-size: 30px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.nav2 a {
+	text-decoration: none;
+	color: red;
+}
+
